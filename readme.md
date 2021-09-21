@@ -2,6 +2,8 @@ Google dino jumping game.
 
 Jum key is KEYUP arrow.
 
+My sons high score is 50 points :)
+
 GAME resources
 
 <a href='https://www.freepik.com/vectors/frame'>Frame vector created by valadzionak_volha - www.freepik.com</a>
