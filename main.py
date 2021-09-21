@@ -1,8 +1,6 @@
-import random
+import sys
 import time
 import pygame
-import sys
-from random import choice
 
 pygame.init()
 
@@ -125,7 +123,8 @@ def level_up():
 while True:
     # quit control
     for event in pygame.event.get():
-        if event.type == pygame.QUIT: sys.exit()
+        if event.type == pygame.QUIT:
+            sys.exit()
 
     # key jump control
     keys = pygame.key.get_pressed()
